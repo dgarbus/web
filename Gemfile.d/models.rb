@@ -16,7 +16,7 @@ gem 'pg', platform: :mri
 gem 'activerecord-jdbcpostgresql-adapter', platform: :jruby
 gem 'has_metadata_column'
 gem 'slugalicious'
-gem 'email_validation'
+gem 'email_validation', '= 1.1.1'
 gem 'url_validation'
 gem 'json_serialize'
 gem 'validates_timeliness'
